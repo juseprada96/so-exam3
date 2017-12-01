@@ -102,8 +102,8 @@ El api gateway es el api que me permite hacer el mapeo de los microservicios des
 [11]: images/Screenshot_11.png
 [12]: images/Screenshot_12.png
 [13]: images/Screenshot_13.png
-[14]: images/Screenshot_14.png
-[15]: images/Screenshot_15.png
+[14]: images/Screenshot_16.png
+[15]: images/Screenshot_17.png
 
 
 
