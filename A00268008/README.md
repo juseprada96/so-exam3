@@ -28,11 +28,17 @@ Para el despliegue de las maquinas virtuales de discovery service y las de micor
 Muestras de las maquinas corriendo y funcionando.
 
 ![][1]
+
 ![][2]
+
 ![][3]
+
 ![][4]
+
 ![][5]
+
 ![][6]
+
 ![][8]
 
 Muestra de la lista de miembros de consul con la replica del servicio.
@@ -54,13 +60,18 @@ semodule -i nginx.pp
 Muestra de funcionamiento de nginx, archivo de template, archivo de configuración generado.
 
 ![][9]
+
 ![][10]
+
 ![][11]
+
 
 Muestra de funcionamiento del discovery service, y balanceador de carga enviando las peticiones a los dos servidores.
 
 ![][12]
+
 ![][13]
+
 ![][14]
 
 
@@ -79,20 +90,20 @@ El balanceador de carga, que se encarga de mantener la carga balanceada entre lo
 El api gateway es el api que me permite hacer el mapeo de los microservicios desplegados y como serán usados, es decir es una capa de abstracción para que el uso de una funcionalidad comlpeta ofrecida por varios microservicios sea mucho más fácil.
 
 [1]: images/Screenshot_1.png
-[1]: images/Screenshot_2.png
-[1]: images/Screenshot_3.png
-[1]: images/Screenshot_4.png
-[1]: images/Screenshot_5.png
-[1]: images/Screenshot_6.png
-[1]: images/Screenshot_7.png
-[1]: images/Screenshot_8.png
-[1]: images/Screenshot_9.png
-[1]: images/Screenshot_10.png
-[1]: images/Screenshot_11.png
-[1]: images/Screenshot_12.png
-[1]: images/Screenshot_13.png
-[1]: images/Screenshot_14.png
-[1]: images/Screenshot_15.png
+[2]: images/Screenshot_2.png
+[3]: images/Screenshot_3.png
+[4]: images/Screenshot_4.png
+[5]: images/Screenshot_5.png
+[6]: images/Screenshot_6.png
+[7]: images/Screenshot_7.png
+[8]: images/Screenshot_8.png
+[9]: images/Screenshot_9.png
+[10]: images/Screenshot_10.png
+[11]: images/Screenshot_11.png
+[12]: images/Screenshot_12.png
+[13]: images/Screenshot_13.png
+[14]: images/Screenshot_14.png
+[15]: images/Screenshot_15.png
 
 
 
